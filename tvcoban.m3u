@@ -1,4 +1,4 @@
-#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD/SD
+#EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/2/index.m3u8
 #EXTINF:-1 group-title="❤️| VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV2 HD
