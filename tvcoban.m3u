@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Trực tiếp bóng đá",18/09 21h00 [AFC Champions League 2] football ATK Mohun Bagan vs Ravshan Kulob
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=aw6TH6G&t=1726668000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://thvip.site/360/2/index.m3u8
@@ -95,18 +91,23 @@ https://thvip.site/360/19/index.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#EXTINF:-1 group-title="Sự kiện tv360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://171.226.225.198:8889/rtp/239.12.251.72:5000
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+#EXTINF:-1 group-title="Sự kiện tv360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VMT
 http://171.226.225.198:8889/rtp/239.12.252.59:5000
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
+#EXTINF:-1 group-title="Sự kiện tv360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VMT
 https://tth.vn/TV360⁺³
-#EXTINF:-1 group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
+#EXTINF:-1 group-title="Sự kiện tv360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VMT
 https://tth.vn/TV360⁺⁴
+#EXTINF:-1 group-title="Sự kiện tv360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740960539/cb834040831f_640_360.png", TV360+5
+#EXTVLCOPT:http-user-agent=VMT
+https://thvip.site/360/9867/index.m3u8
+#EXTINF:-1 group-title="Sự kiện tv360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740923372/3668f8c5f024_640_360.png", TV360+6
+https://thvip.site/360/9868/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Chùm HBO" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
