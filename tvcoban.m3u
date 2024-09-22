@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Trực tiếp bóng đá",22/09 22h30 [Ngoại hạng Anh] football Off fan MC vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=6XffC1e&t=1727019000
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://thvip.site/vtv1/index.m3u8
