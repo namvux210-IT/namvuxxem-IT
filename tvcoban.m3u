@@ -119,9 +119,12 @@ http://42.119.73.144:2052/udp/225.1.2.244:30120
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
 https://202x.io.vn/1.php?id=10
-#EXTINF:-1 tvg-id="hbohd" group-title="Chùm Kênh HBO" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO Dự Phòng
+#EXTINF:-1 tvg-id="hbohd" group-title="Chùm kênh HBO" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO Dự Phòng
 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
+#EXTINF:0 tvg-id="hbohd" group-title= "Chùm kênh HBO" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Dự Phòng 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://thvip.site/360/159/index.m3u8
