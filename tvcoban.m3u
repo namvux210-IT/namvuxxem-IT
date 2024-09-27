@@ -1,3 +1,14 @@
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Trực tiếp bóng đá",27/09 22h00 [Futsal World Cup] football Argentina vs Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BqvHzpD&t=1727449200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Trực tiếp bóng đá",27/09 22h20 [Saudi Professional League] football Al Nassr vs Al Wehda Mecca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=bMs2BgL&t=1727450400
+#EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fke-trom-mat-trang-4-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Despicable Me 4 (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream13.com/20240807/5087_87812eef/index.m3u8
 #EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnu-hoang-nuoc-mat-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Queen of tear EP1S01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream17.com/20240309/2399_69fbdeb0/index.m3u8
