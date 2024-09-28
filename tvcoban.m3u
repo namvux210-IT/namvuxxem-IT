@@ -90,6 +90,12 @@ http://thvip.site/vtc14/index.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://thvip.site/vtc16/index.m3u8
+#EXTINF:-1 group-title=" 🍭| K+" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",K+ CINE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://live2onsport.vtvcab.vn/K_CINE_7777/v2_index.m3u8
+#EXTINF:-1 group-title=" 🍭| K+" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",K+ ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://live2onsport.vtvcab.vn/K_LIFE_7777/v2_index.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
