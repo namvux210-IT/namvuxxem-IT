@@ -93,6 +93,7 @@ http://thvip.site/vtc16/index.m3u8
 #EXTINF:-1 group-title=" 🍭| K+" tvg-logo="https://img.lichphatsong.xyz/logo/kcinehd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",K+ CINE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://live2onsport.vtvcab.vn/K_CINE_7777/v2_index.m3u8
+https://live2onsport.vtvcab.vn/K_CINE_7777/a0_index.m3u8
 #EXTINF:-1 group-title=" 🍭| K+" tvg-logo="https://img.lichphatsong.xyz/logo/kaction.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",K+ ACTION HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://live2onsport.vtvcab.vn/K_LIFE_7777/v2_index.m3u8
