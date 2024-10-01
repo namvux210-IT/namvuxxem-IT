@@ -1,19 +1,4 @@
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 29/09",29/09 20h00 [Ngoại hạng Anh] Ipswich Town vs Aston Villa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=EfdAQHa&t=1727614800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 29/09",29/09 22h30 [Ngoại hạng Anh] Off fan MU vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=CTOYyCr&t=1727623800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 29/09",29/09 22h30 [Ngoại hạng Anh] Off fan MU vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=xGlydOS&t=1727623800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 29/09",29/09 22h30 [Ngoại hạng Anh] Manchester United vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=CwXxjjP&t=1727623800
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fke-trom-mat-trang-4-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Despicable Me 4 (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream13.com/20240807/5087_87812eef/index.m3u8
