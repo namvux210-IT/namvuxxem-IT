@@ -1,83 +1,207 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="Ngày 02/10",02/10 21h30 [Europa Conference League] Istanbul Buyuksehir Belediyesi vs Rapid Wien
+#*----------⚽ Trực tiếp bóng đá----------*#
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="⚽ Trực tiếp bóng đá",03/10 19h00 [AFC Champions League 2] Eastern A.A Football Team vs Hiroshima Sanfrecce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wMI8bQy&t=1727879400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="Ngày 02/10",02/10 21h30 [Europa Conference League] Vitoria Guimaraes vs NK Publikum Celje
+https://202x.io.vn/bongda/tc.php?id=fs9ohcz&t=1727956800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="⚽ Trực tiếp bóng đá",03/10 19h00 [AFC Champions League 2] Zhejiang Greentown vs Persib Bandung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=yDKRVTJ&t=1727879400
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 02/10",02/10 22h00 [Futsal World Cup] Ukraine vs Brazil
+https://202x.io.vn/bongda/tc.php?id=VCR1bF2&t=1727956800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="⚽ Trực tiếp bóng đá",03/10 19h00 [AFC Champions League 2] Selangor vs Dynamic Herb Cebu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ZJsDMrA&t=1727881200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 02/10",02/10 23h45 [UEFA Champions League] Girona vs Feyenoord
+https://202x.io.vn/bongda/tc.php?id=EXUpcdK&t=1727956800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="⚽ Trực tiếp bóng đá",03/10 19h00 [AFC Champions League 2] Eastern A.A Football Team vs Hiroshima Sanfrecce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=iC1Iiii&t=1727887500
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 02/10",02/10 23h45 [UEFA Champions League] FC Shakhtar Donetsk vs Atalanta
+https://202x.io.vn/bongda/tc.php?id=fs9ohcz&t=1727956800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="⚽ Trực tiếp bóng đá",03/10 19h00 [AFC Champions League 2] Zhejiang Greentown vs Persib Bandung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mOUzqfa&t=1727887500
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 23h00 [AFC Champions League 2] Tractor S.C. vs ATK Mohun Bagan
+https://202x.io.vn/bongda/tc.php?id=VCR1bF2&t=1727956800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="⚽ Trực tiếp bóng đá",03/10 19h00 [AFC Champions League 2] Selangor vs Dynamic Herb Cebu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4XCbE3g&t=1727884800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 21h00 [AFC Champions League 2] Ravshan Kulob vs Al-Wakra
+https://202x.io.vn/bongda/tc.php?id=EXUpcdK&t=1727956800
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="⚽ Trực tiếp bóng đá",03/10 22h00 [Futsal World Cup] Argentina vs France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=y32ISP1&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 21h00 [AFC Champions League 2] FC Altyn Asyr vs Al Khaldiya
+https://202x.io.vn/bongda/tc.php?id=Lf4cMZ8&t=1727967600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Ferencvarosi TC vs Tottenham Hotspur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JY1ny9o&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 21h00 [AFC Champions League 2] Nasaf Qarshi vs Al Ahli(UAE)
+https://202x.io.vn/bongda/tc.php?id=AITcEgv&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] TSG Hoffenheim vs Dynamo Kyiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Aston Villa vs Bayern Munchen
+https://202x.io.vn/bongda/tc.php?id=VpCctcC&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Olympiakos Piraeus vs Sporting Braga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=pabFxbY&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Dinamo Zagreb vs Monaco
+https://202x.io.vn/bongda/tc.php?id=frmIAiq&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Rigas Futbola skola vs Galatasaray
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=z9j7Ljg&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Lille vs Real Madrid
+https://202x.io.vn/bongda/tc.php?id=4Zxxaoj&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Slavia Praha vs AFC Ajax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=AJtGk2g&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Liverpool vs Bologna
+https://202x.io.vn/bongda/tc.php?id=nbRxT8N&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Lazio vs Nice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=TKQ3eIy&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] RB Leipzig vs Juventus
+https://202x.io.vn/bongda/tc.php?id=pQ3lakG&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Maccabi Tel Aviv vs Midtjylland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=fqI5yyz&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Sturm Graz vs Club Brugge
+https://202x.io.vn/bongda/tc.php?id=5invZdK&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Qarabag vs Malmo FF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=fzVW1Qn&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Aston Villa vs Bayern Munchen
+https://202x.io.vn/bongda/tc.php?id=dNHM2Wq&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa League] Real Sociedad vs Anderlecht
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=LLUfx65&t=1727895600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Benfica vs Atletico Madrid
+https://202x.io.vn/bongda/tc.php?id=OD3N0T5&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] Legia Warszawa vs Real Betis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2h1QyOk&t=1727895600
-#EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Foppenheimer-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Oppenheimer (2023)
+https://202x.io.vn/bongda/tc.php?id=DnlK0xv&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] Cercle Brugge vs St. Gallen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sV3ihUT&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] Dinamo Minsk vs Heart of Midlothian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=zSF23jN&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] Omonia Nicosia FC vs Vikingur Reykjavik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1UGco0w&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] FC Noah vs Mlada Boleslav
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PiUyfgt&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] Molde vs Larne FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qRZNEJL&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] Heidenheim vs NK Olimpija Ljubljana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XHDy8lm&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",03/10 23h45 [Europa Conference League] FC Astana vs Backa Topola
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2hJ8Hhf&t=1727973900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] Athletic Bilbao vs AZ Alkmaar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2eujcjo&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] Elfsborg vs AS Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=i4ge8AB&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] FC Porto vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=NUIvVMc&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] Glasgow Rangers vs Lyon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=hnapY2x&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] FC Twente Enschede vs Fenerbahce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=WzOyiyT&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] FC Porto vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Wm3zbQI&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] FC Porto vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=f3gMVpd&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] Besiktas JK vs Eintracht Frankfurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=YQcmZNQ&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] PAOK Saloniki vs FC Steaua Bucuresti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Gq00aAl&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] FC Viktoria Plzen vs Ludogorets Razgrad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vbdYcxN&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa League] Saint Gilloise vs Bodo Glimt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=RgSCMcK&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] Chelsea vs KAA Gent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=e0SFBpJ&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] Fiorentina vs The New Saints
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=kwSbMeW&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] Borac Banja Luka vs Panathinaikos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=U2asO6n&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] Shamrock Rovers vs APOEL Nicosia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=xK3KQpU&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] CS Petrocub vs Pafos FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=5DPukLm&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] FC Copenhagen vs Jagiellonia Bialystok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=dR9yavb&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] LASK Linz vs Djurgardens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=eLRtdZJ&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="⚽ Trực tiếp bóng đá",04/10 02h00 [Europa Conference League] Lugano vs HJK Helsinki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BMzDWJe&t=1727982000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="⚽ Trực tiếp bóng đá",04/10 07h30 [Brazilian Serie A] Fluminense RJ vs Cruzeiro (MG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=pNXydR7&t=1728001800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="⚽ Trực tiếp bóng đá",04/10 05h00 [Brazilian Serie A] Criciuma vs Atletico Clube Goianiense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4EKupVl&t=1727992800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="⚽ Trực tiếp bóng đá",04/10 17h00 [Japanese J1 League] Avispa Fukuoka vs Nagoya Grampus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=3Ziw0Z7&t=1728036000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b9ea430273d03d5567f1edd406b4e1b5.png" group-title="⚽ Trực tiếp bóng đá",04/10 09h05 [Central American Cup] Alajuelense vs C.S.D. Comunicaciones
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=dO9in3a&t=1728007500
+#*---------🎬 Film----------*#
+#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Foppenheimer-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Oppenheimer (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream16.com/20231109/37117_ca7f2224/index.m3u8
-#EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fke-trom-mat-trang-4-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Despicable Me 4 (2024)
+#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fke-trom-mat-trang-4-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Despicable Me 4 (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream13.com/20240807/5087_87812eef/index.m3u8
-#EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnu-hoang-nuoc-mat-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Queen of tear EP1S01
+#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnu-hoang-nuoc-mat-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Queen of tear EP1S01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream17.com/20240309/2399_69fbdeb0/index.m3u8
-#EXTINF:-1 group-title="Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fdeadpool-va-wolverine-thumb.jpg&w=256&q=75" catchup-days="2" catchup-source="?s=${start}&e=${end}",Deadpool and Wolverine (2024)
+#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fdeadpool-va-wolverine-thumb.jpg&w=256&q=75" catchup-days="2" catchup-source="?s=${start}&e=${end}",Deadpool and Wolverine (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream13.com/20240802/5022_29a298dc/index.m3u8
+#*---------VTV----------*#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://thvip.site/vtv1/index.m3u8
