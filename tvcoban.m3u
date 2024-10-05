@@ -217,6 +217,12 @@ https://202x.io.vn/bongda/tc.php?id=4JdVQy2&t=1728181800
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=MPcphFG&t=1728181800
 #*---------🎬 Film----------*#
+#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fqua-nhanh-qua-nguy-hiem-10-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Fast X (2023)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream13.com/20230609/42_d13c5fda/index.m3u8
+#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnhung-manh-ghep-cam-xuc-2-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Những mảnh ghép cảm xúc - Inside out 2 (2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream17.com/20240820/17318_a62afa8f/index.m3u8
 #EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Foppenheimer-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Oppenheimer (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream16.com/20231109/37117_ca7f2224/index.m3u8
@@ -322,30 +328,34 @@ https://thvip.site/360/19/index.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#*----------⚽ Sự Kiện (TV360-FPT-Mytv)----------*#
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 http://171.226.225.198:8889/rtp/239.12.251.72:5000
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VMT
 http://171.226.225.198:8889/rtp/239.12.252.59:5000
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VMT
-https://tth.vn/TV360⁺³
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
+http://171.226.225.198:8889/rtp/239.12.251.253:5000 
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VMT
 https://tth.vn/TV360⁺⁴
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740960539/cb834040831f_640_360.png", TV360+5
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740960539/cb834040831f_640_360.png", TV360+5
 #EXTVLCOPT:http-user-agent=VMT
 https://thvip.site/360/9867/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740923372/3668f8c5f024_640_360.png", TV360+6
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740923372/3668f8c5f024_640_360.png", TV360+6
 https://thvip.site/360/9868/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/06/1726788697117/30d4679fe59d_640_360.png", TV360+7
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/06/1726788697117/30d4679fe59d_640_360.png", TV360+7
 https://thvip.site/360/9869/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/00/172676698597/300138c2bbe3_640_360.png", TV360+8
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/00/172676698597/300138c2bbe3_640_360.png", TV360+8
 https://thvip.site/360/9870/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện TV360 (C1)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
+https://thvip.site/360/9887/index.m3u8
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VMT
-http://42.119.73.144:2052/udp/225.1.2.244:30120
+https://live.fptplay53.net/epzhd2/pladio_vhls.smil/chunklist_b5000000.m3u8
+#*----------🎥 Chùm HBO----------*#
 #EXTINF:-10 tvg-id="hbohd" group-title="Chùm kênh HBO" tvg-logo="https://i.imgur.com/luaJsUM.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
@@ -356,6 +366,7 @@ http://118.68.45.194:9898/udp/225.1.4.90:30120
 #EXTINF:0 tvg-id="hbohd" group-title= "Chùm kênh HBO" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Dự Phòng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+#*----------📦| In The Box----------*#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://thvip.site/360/159/index.m3u8
