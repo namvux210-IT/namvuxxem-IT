@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #*----------⚽ Trực tiếp bóng đá----------*#
+#EXTINF:-1 group-title="Trực tiếp Bóng đá (luồng nhà đài)" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a1/Man_Utd_FC_.svg",Trực tiếp MU vs Aston villa (Nhà đài Tây)
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/29071.ts
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/95ca216361f502f6efe70dd686f7c2d8.png" group-title="Ngày 06/10",06/10 19h00 [AFC Women's Champion League] CLB TPHCM (w) vs Taichung Blue Whale (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
