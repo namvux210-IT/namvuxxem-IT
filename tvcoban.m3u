@@ -1,9 +1,47 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+
 #*----------⚽ Trực tiếp bóng đá----------*#
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ad5a890a4cfddc49c056c3fd2153d7ad.png" group-title="⚽ Trực tiếp bóng đá",16/10 19h00 [Bosnia Premier League] FK Igman Konjic vs Borac Banja Luka
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="⚽ Trực tiếp bóng đá",16/10 21h00 [Russian Cup] Rodina Moskva vs Spartak Kostroma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GuWRctm&t=1729080000
+https://202x.io.vn/bongda/tc.php?id=XMVLkfo&t=1729087200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="⚽ Trực tiếp bóng đá",16/10 21h00 [Russian Cup] Rodina Moskva vs Spartak Kostroma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XMVLkfo&t=1729087200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="⚽ Trực tiếp bóng đá",16/10 23h30 [Russian Cup] Torpedo moskva vs Baltika Kaliningrad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ShlaAFx&t=1729096200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ad5a890a4cfddc49c056c3fd2153d7ad.png" group-title="⚽ Trực tiếp bóng đá",16/10 23h00 [Bosnia Premier League] HSK Zrinjski Mostar vs Radnik Bijeljina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ai9MKo0&t=1729094400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ Trực tiếp bóng đá",16/10 23h45 [Women's Champions League] Juventus (w) vs Bayern Munchen (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=wmKV7qB&t=1729097100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ Trực tiếp bóng đá",16/10 23h45 [Women's Champions League] St. Polten (w) vs Manchester City (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=n4taqRM&t=1729097100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ Trực tiếp bóng đá",17/10 02h00 [Women's Champions League] Barcelona (w) vs Hammarby (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sdkQU5a&t=1729105200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ Trực tiếp bóng đá",17/10 02h00 [Women's Champions League] Arsenal (w) vs Valerenga (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=x8lBNZF&t=1729105200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ Trực tiếp bóng đá",17/10 23h45 [Women's Champions League] Galatasaray SK (W) vs Res Roma (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1qAhoxq&t=1729183500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="⚽ Trực tiếp bóng đá",17/10 23h45 [Women's Champions League] Real Madrid (w) vs Celtic (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Z9p66Iy&t=1729183500
 #*---------🎬 Film----------*#
 #EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fqua-nhanh-qua-nguy-hiem-10-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Fast X (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
