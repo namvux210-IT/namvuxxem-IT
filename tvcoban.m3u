@@ -155,29 +155,37 @@ https://thvip.site/360/19/index.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #*----------⚽ Sự Kiện (TV360-FPT-Mytv)----------*#
+#EXTINF:-1 tvg-name="801" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/267.png?ver=undefined", MyTV 801
+http://113.160.152.31:5050/rtp/232.84.2.175:10858
+#EXTINF:-1 tvg-name="802" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/349.png?ver=undefined", MyTV 802 HD
+http://113.160.152.31:5050/rtp/232.84.2.176:10864
+#EXTINF:-1 tvg-name="803" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/447.png?ver=undefined", MyTV 803 HD
+http://113.160.152.31:5050/rtp/232.84.2.195:10954
+#EXTINF:-1 tvg-name="804" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
+http://113.160.152.31:5050/rtp/232.84.2.196:10960
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://171.226.225.198:8889/rtp/239.12.251.72:5000
+http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5PaiygRdvy6KRed-QtmkKaBA/m3u8
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VMT
-http://171.226.225.198:8889/rtp/239.12.252.59:5000
+http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5PTbxRWCeGVCOsoWbSsK1g1s/m3u8
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=VMT
-http://171.226.225.198:8889/rtp/239.12.251.253:5000 
+http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5Pd-JSnPLSIo0PVVs61hI2C0/m3u8
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=VMT
 https://tth.vn/TV360⁺⁴
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740960539/cb834040831f_640_360.png", TV360+5
 #EXTVLCOPT:http-user-agent=VMT
-https://thvip.site/360/9867/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9867
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740923372/3668f8c5f024_640_360.png", TV360+6
-https://thvip.site/360/9868/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9868
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/06/1726788697117/30d4679fe59d_640_360.png", TV360+7
-https://thvip.site/360/9869/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9869
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/00/172676698597/300138c2bbe3_640_360.png", TV360+8
-https://thvip.site/360/9870/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9867 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9870
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-https://thvip.site/360/9887/index.m3u8
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9887
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VMT
 https://live.fptplay53.net/epzhd2/pladio_vhls.smil/chunklist_b5000000.m3u8
