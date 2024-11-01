@@ -2,6 +2,26 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #*----------⚽ Trực tiếp bóng đá----------*#
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="⚽ Trực tiếp bóng đá",01/11 15h35 [Australia A-League] Brisbane Roar vs Sydney FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=GAG6u6A&t=1730450100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="⚽ Trực tiếp bóng đá",01/11 17h00 [Japanese J1 League] Kawasaki Frontale vs Kashima Antlers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=br9rX1A&t=1730455200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="⚽ Trực tiếp bóng đá",01/11 17h00 [Japanese J1 League] Vissel Kobe vs Jubilo Iwata
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=kjSTsKv&t=1730455200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="⚽ Trực tiếp bóng đá",01/11 17h30 [Korean K League 1] Ulsan Hyundai FC vs Gangwon FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=wO72Hom&t=1730457000
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="⚽ Trực tiếp bóng đá",01/11 19h15 [V League] Hải Phòng vs Nam Định
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=5dxJaAX&t=1730463300
 #*----------Trực tiếp ThapcamTV----------*#
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Trực tiếp ThapcamTV",01/11 09h30 [NBA] Clippers vs Suns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
