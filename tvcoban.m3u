@@ -2,58 +2,43 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #*----------⚽ Trực tiếp bóng đá----------*#
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Serie A] Monza vs Venezia
+#*----------Trực tiếp ThapcamTV----------*#
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Trực tiếp ThapcamTV",01/11 09h30 [NBA] Clippers vs Suns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1gt2y2u&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Serie A] Lazio vs Genoa
+https://202x.io.vn/bongda/tc.php?id=XsJwydg&t=1730428200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Trực tiếp ThapcamTV",01/11 02h00 [Tennis] WTA250 Merida Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=yXzNnap&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] Chelsea vs Newcastle United
+https://202x.io.vn/bongda/tc.php?id=GzMH5T2&t=1730401200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Trực tiếp ThapcamTV",01/11 08h00 [MotoGP] Malaysia GP: Moto3 Moto2 practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=OZkFMak&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] Crystal Palace vs Tottenham Hotspur
+https://202x.io.vn/bongda/tc.php?id=lDuPI57&t=1730422800
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Trực tiếp ThapcamTV",01/11 14h00 [MotoGP] Malaysia GP: MotoGP Practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=kNqQrXQ&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] West Ham vs Đầu cầu fan MU
+https://202x.io.vn/bongda/tc.php?id=nXmZiym&t=1730444400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Trực tiếp ThapcamTV",01/11 11h00 [Tennis] WTA250 Jiujiang Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=O2H4a2q&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] West Ham vs Đầu cầu fan MU
+https://202x.io.vn/bongda/tc.php?id=JUPqBs6&t=1730433600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Trực tiếp ThapcamTV",01/11 13h00 [Tennis] WTA250 Hong Kong Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=t7kob7i&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] West Ham vs Đầu cầu Anti fan MU
+https://202x.io.vn/bongda/tc.php?id=zZjGPze&t=1730440800
+#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2575/image/dark" group-title="Trực tiếp ThapcamTV",01/11 13h00 [WTA250 Hong Kong Open] Sofia Kenin vs Yue Yuan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GOmf2dL&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] Crystal Palace vs Tottenham Hotspur
+https://202x.io.vn/bongda/tc.php?id=tWFuB0K&t=1730440800
+#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2575/image/dark" group-title="Trực tiếp ThapcamTV",01/11 14h15 [WTA250 Hong Kong Open] Anastasia Zakharova vs Katie Boulter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=jDaxvTj&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 23h30 [Ngoại hạng Anh] Đầu cầu fan Arsenal vs Liverpool
+https://202x.io.vn/bongda/tc.php?id=cBDnHk2&t=1730445300
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Trực tiếp ThapcamTV",01/11 15h30 [NBL: Bóng Rổ Úc] Tasmania JackJumpers vs South East Melbourne Phoenix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0R6VtNE&t=1730046600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 23h30 [Ngoại hạng Anh] Đầu cầu trung lập vs Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=LBlxreq&t=1730046600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 23h30 [Ngoại hạng Anh] Arsenal vs Đầu cầu fan Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=y04mWRt&t=1730046600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h00 [Ngoại hạng Anh] Chelsea vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=hXBhQ6s&t=1730037600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="⚽ Trực tiếp bóng đá",27/10 21h30 [Bundesliga] VfL Bochum vs Bayern Munchen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=fbONZ6c&t=1730039400
+https://202x.io.vn/bongda/tc.php?id=8LUFIGX&t=1730449800
 #*---------🎬 Film----------*#
 #EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fqua-nhanh-qua-nguy-hiem-10-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Fast X (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
