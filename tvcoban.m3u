@@ -2,16 +2,10 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #*----------⚽ Trực tiếp bóng đá----------*#
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",03/11 23h30 [Ngoại hạng Anh] Off fan MU vs Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=LUX4iML&t=1730651400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",03/11 23h30 [Ngoại hạng Anh] Manchester United vs Off fan Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QFZIot1&t=1730651400
+#EXTINF:-1 group-title="⚽ Trực tiếp bóng đá" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",(FPT) Golf: Abu Dhabi Championship 2024 - Vòng 1
+https://live.fptplay53.net/fnxch1/thethao136_25s.smil/chunklist_b5500000.m3u8
 #*----------Trực tiếp ThapcamTV----------*#
-😊Trước 12h ngày mai ad sẽ update akkkk
+
 #*---------🎬 Film----------*#
 #EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fqua-nhanh-qua-nguy-hiem-10-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Fast X (2023)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
