@@ -1,0 +1,35 @@
+🎥TVMIENPHI - Xem Ko Phí.
+#*---------VTV----------*#
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://thvip.site/vtv1/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/3/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+http://thvip.site/360/4/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/108/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://thvip.site/vtv5/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtnb.png"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/157/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hdtn.png"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://thvip.site/360/207/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv6hd.jpg", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv6/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/vtv9/index.m3u8
