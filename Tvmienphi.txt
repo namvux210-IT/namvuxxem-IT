@@ -1,5 +1,5 @@
 🎥TVMIENPHI - Xem Ko Phí.
-Xem VTVCAB Chỉ từ 50k trên TV360.VN
+Mua gói truyền hình tại Tv360; MyTV(Chỉ mạng VNPT); FPT Play; ClipTV; VtvCab; VieON.
 #*---------VTV----------*#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
