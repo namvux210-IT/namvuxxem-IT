@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 🎥TVMIENPHI - Xem Ko Phí.
 Mua gói truyền hình tại Tv360; MyTV(Chỉ mạng VNPT); FPT Play; ClipTV; VtvCab; VieON.
 #*---------VTV----------*#
