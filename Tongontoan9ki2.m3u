@@ -27,3 +27,6 @@ https://lessonvid.moon.vn/10623047/10859793/stream_0/playlist.m3u8
 #EXTINF:-1 group-title="Hàm số y=ax^2 và phương trình bậc hai một ẩn" tvg-logo="https://cdn0166.cdn4s.com/media/moon/1-toan-9-2.jpg" catchup-days="2" catchup-source="?s=${start}&e=${end}",VD 4 Chủ đề 2 phương trình bậc hai một ẩn và công thức nghiệm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://lessonvid.moon.vn/10623047/10859794/stream_0/playlist.m3u8
+#EXTINF:-1 group-title="Hàm số y=ax^2 và phương trình bậc hai một ẩn" tvg-logo="https://cdn0166.cdn4s.com/media/moon/1-toan-9-2.jpg" catchup-days="2" catchup-source="?s=${start}&e=${end}",Chủ đề 3 hệ thức vi ét và ứng dụng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://lessonvid.moon.vn/10623054/10887657/stream_0/playlist.m3u8
