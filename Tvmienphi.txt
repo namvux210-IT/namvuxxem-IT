@@ -85,6 +85,9 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🌎Quốc tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🌎Quốc tế" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO Luồng KTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://live-cdn01.volam.pro:8443/pini=sv1.localhost.ini/hbo/tracks-v1a1/mono.m3u8?ip=14.170.97.155&pini=sv1.localhost.ini&signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOm51bGwsImV4cCI6MTczMzQxMzA0NCwiaXAiOiIxNC4xNzAuOTcuMTU1IiwidXNlcl9hZ2VudF9kZXYiOiJNb3ppbGxhXC81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXRcLzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZVwvMTMxLjAuMC4wIFNhZmFyaVwvNTM3LjM2IiwidXNlcm5hbWUiOiJLMDF0ZHpZeGNrbE9WMFU1ZGxRNUwyVTJUMVEzUVQwOSIsInBhc3MiOiJWMnhwWVROeU1ucE9XbTFtZFVGblRuZHJXRnAxWnowOSIsInVyaSI6ImxpdmVcL2hibyJ9.YhdcNX9OLlAO7ibuz11PJ-fVaIYRYpY179tbVqBI8mg&token=6c4e6d810b0ecec277cb6e3ad0b10c087866d331-0a9ac949281dfd9483a879f3d2d11f38-1733423844-1733409444
 #*---------⚽Kênh Thể thao----------*#
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png ", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
