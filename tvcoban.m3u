@@ -2,13 +2,22 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #*----------⚽ Trực tiếp bóng đá----------*#
-
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",04/01 19h30 Tottenham Hotspur vs Newcastle United (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=OGNKKbx&t=1735993800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="⚽ Trực tiếp bóng đá",04/01 22h00 Manchester City vs West Ham (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=w0mLoPE&t=1736002800
+#EXTINF:-1 group-title="⚽ Trực tiếp bóng đá" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnhung-manh-ghep-cam-xuc-2-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",[Xoilac TV] 19h30 Tottenham vs Newcastle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001735992020-0-0-bbb5981c630a5b7b8d553cce9dbf1627
+#EXTINF:-1 group-title="⚽ Trực tiếp bóng đá" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnhung-manh-ghep-cam-xuc-2-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",[Cakhia TV] 19h30 Tottenham vs Newcastle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 #*----------Trực tiếp ThapcamTV----------*#
 
 #*---------🎬 Film----------*#
-#EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fqua-nhanh-qua-nguy-hiem-10-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Fast X (2023)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-https://vip.opstream13.com/20230609/42_d13c5fda/index.m3u8
 #EXTINF:-1 group-title="🎬 Film" tvg-logo="https://ophim17.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Fnhung-manh-ghep-cam-xuc-2-thumb.jpg&w=256&q=75"catchup-type="default" catchup-days="2" catchup-source="?s=${start}&e=${end}",Những mảnh ghép cảm xúc - Inside out 2 (2024)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
 https://vip.opstream17.com/20240820/17318_a62afa8f/index.m3u8
@@ -115,51 +124,48 @@ http://thvip.site/360/290/index.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://thvip.site/360/19/index.m3u8
 #*----------⚽ Sự Kiện (TV360-FPT-Mytv)----------*#
-#EXTINF:-1 tvg-name="801" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/267.png?ver=undefined", MyTV 801
-http://113.160.152.31:5050/rtp/232.84.2.175:10858
-#EXTINF:-1 tvg-name="802" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/349.png?ver=undefined", MyTV 802 HD
-http://113.160.152.31:5050/rtp/232.84.2.176:10864
-#EXTINF:-1 tvg-name="803" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://webapi.mytv.vn/api/v1/static/channel/447.png?ver=undefined", MyTV 803 HD
-http://113.160.152.31:5050/rtp/232.84.2.195:10954
-#EXTINF:-1 tvg-name="804" group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
-http://113.160.152.31:5050/rtp/232.84.2.196:10960
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png", TV360+1
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5PaiygRdvy6KRed-QtmkKaBA/m3u8
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png", TV360+2
+https://tv.truyenhinh.click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5PTbxRWCeGVCOsoWbSsK1g1s/m3u8
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360+3
+https://tv.truyenhinh.click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/TV360%2B3.png", TV360+3
 #EXTVLCOPT:http-user-agent=VMT
-http://103.171.91.5/play/6RZsvsSwV5SXHaiwkVy5Pd-JSnPLSIo0PVVs61hI2C0/m3u8
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360+4
+https://tv.truyenhinh.click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png", TV360+4
 #EXTVLCOPT:http-user-agent=VMT
-https://tth.vn/TV360⁺⁴
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740960539/cb834040831f_640_360.png", TV360+5
+https://tv.truyenhinh.click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
 #EXTVLCOPT:http-user-agent=VMT
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9867
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/19/17/1726740923372/3668f8c5f024_640_360.png", TV360+6
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9868
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/06/1726788697117/30d4679fe59d_640_360.png", TV360+7
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9869
-#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/20/00/172676698597/300138c2bbe3_640_360.png", TV360+8
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9867 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9870
+https://tv.truyenhinh.click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="L⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png", TV360+6
+https://tv.truyenhinh.click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png", TV360+7
+https://tv.truyenhinh.click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png", TV360+8
+https://tv.truyenhinh.click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9887
+https://tv.truyenhinh.click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="⚽ Sự Kiện (TV360-FPT-Mytv)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VMT
-https://live.fptplay53.net/epzhd2/pladio_vhls.smil/chunklist_b5000000.m3u8
 #*----------🎥 Chùm HBO----------*#
-#EXTINF:-10 tvg-id="hbohd" group-title="Chùm kênh HBO" tvg-logo="https://i.imgur.com/luaJsUM.png",HBO
+#EXTINF:-10 tvg-id="hbohd" group-title="🎥 Chùm HBO" tvg-logo="https://i.imgur.com/luaJsUM.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
 https://202x.io.vn/1.php?id=10
-#EXTINF:-1 tvg-id="hbohd" group-title="Chùm kênh HBO" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO Dự Phòng
+#EXTINF:-1 tvg-id="hbohd" group-title="🎥 Chùm HBO" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", HBO Dự Phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://118.68.45.194:9898/udp/225.1.4.90:30120
-#EXTINF:0 tvg-id="hbohd" group-title= "Chùm kênh HBO" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Dự Phòng 2
+#EXTINF:0 tvg-id="hbohd" group-title= "🎥 Chùm HBO" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO Dự Phòng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🎥 Chùm HBO" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO dự phòng 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #*----------📦| In The Box----------*#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
