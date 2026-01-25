@@ -1,6 +1,49 @@
-#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", SPOTV
+#*---------Taxi driver phần 2----------*#
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 1 - Taxi driver 2 Ophim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-https://live-cdn01.volam.pro:8443/pini=sv1.localhost.ini/enc1/ninochannel1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", SPOTV 2
+https://vip.opstream14.com/20230220/32435_4bdc19fa/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 2 - Taxi driver 2 Ophim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-https://live-cdn01.volam.pro:8443/pini=sv1.localhost.ini/enc1/ninochannel1/tracks-v1a1/mono.m3u8
+https://vip.opstream14.com/20230220/32436_138ea1e4/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 3 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream16.com/20230226/32224_28aaba35/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 4 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream16.com/20230226/32201_5c2eb41b/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 5 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream16.com/20230311/32926_8b676254/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 6 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230313/33659_19b77a93/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 7 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream16.com/20230319/33200_a4808f11/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 8 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230319/33820_15408129/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 9 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230325/34124_201a3def/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 10 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230326/34139_5d2f1f51/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 11 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230401/34427_208f7154/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 12 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream16.com/20230402/33620_b87e6661/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 13 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230408/34993_4d697181/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 14 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230409/35035_dab263cf/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 15 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230416/35498_57f8249f/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="Thể Thao ⚽" tvg-logo="http://cdn.hqth.me/logo/thumbs/185.png", Tập 16 - Taxi driver 2 Ophim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+https://vip.opstream14.com/20230416/35497_590649b7/index.m3u8
