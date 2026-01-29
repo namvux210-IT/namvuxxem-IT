@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BLUE-MOVIE TV | PURE EDITION</title>
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+    <style>
+        /* --- CSS THUẦN (VANILLA CSS) --- */
+        :root {
+            --main-blue: #00d2ff;
+            --dark-bg: #020202;
+            --card-bg: rgba(20, 20, 20, 0.8);
+            --text-light: #d1d1d1;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background: radial-gradient(circle at top right, #001a33, var(--dark-bg) 80%);
+            color: var(--text-light);
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .container { max-width: 1400px; margin: 0 auto; padding: 0 20px; }
+
+        /* Navigation */
+        .navbar {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(0, 0, 0, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(0, 210, 255, 0.2);
+            padding: 15px 0;
+        }
+
+        .nav-content { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 15px; }
+
+        .logo {
+            font-size: 28px;
+            font-weight: 900;
+            font-style: italic;
+            background: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            cursor: pointer;
+            margin: 0;
+            text-decoration: none;
+        }
+
+        /* Server Switcher */
+        .server-switcher {
+            display: flex;
+            background: #111;
+            padding: 4px;
+            border-radius: 30px;
+            border: 1px solid #333;
+        }
+
+        .server-btn {
+            padding: 8px 16px;
+            border-radius: 25px;
+            font-size: 11px;
+            font-weight: bold;
+            color: #666;
+            background: none;
+            border: none;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .server-btn.active { background: var(--main-blue); color: #000; }
+
+        .search-box { position: relative; min-width: 250px; }
+        .search-box input {
+            width: 100%;
+            background: #111;
+            border: 1px solid #333;
+            border-radius: 20px;
+            padding: 10px 15px 10px 40px;
+            color: white;
+            outline: none;
+        }
+        .search-box input:focus { border-color: var(--main-blue); }
+        .search-box i { position: absolute; left: 15px; top: 12px; color: #555; }
+
+        /* Filter Bar */
+        .filter-bar { display: flex; flex-wrap: wrap; gap: 10px; margin: 25px 0; }
+        .filter-btn {
+            padding: 8px 15px;
+            border-radius: 5px;
+            font-size: 12px;
+            font-weight: bold;
+            border: none;
+            cursor: pointer;
+            background: #1a1a1a;
+            color: white;
+            transition: var(--transition);
+        }
+        .filter-btn:hover { background: var(--main-blue); color: black; }
+
+        /* Movie Grid */
+        .movie-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+
+        .movie-card {
+            background: var(--card-bg);
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.05);
+            cursor: pointer;
+            transition: var(--transition);
+            position: relative;
+        }
+
+        .movie-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--main-blue);
+            box-shadow: 0 10px 20px rgba(0, 210, 255, 0.2);
+        }
+
+        .movie-card img { width: 100%; aspect-ratio: 2/3; object-fit: cover; }
+
+        .movie-info { padding: 12px; }
+        .movie-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .movie-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            color: #888;
+            margin-top: 8px;
+        }
+
+        .quality-badge {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: var(--main-blue);
+            color: black;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: bold;
+        }
+
+        /* Player Modal */
+        .player-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.95);
+            z-index: 1000;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .player-content { width: 90%; max-width: 1000px; }
+        
+        video { width: 100%; background: #000; border-radius: 8px; border: 1px solid #333; }
+
+        .episode-container {
+            margin-top: 20px;
+            max-height: 200px;
+            overflow-y: auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            padding: 10px;
+            background: #111;
+            border-radius: 8px;
+        }
+
+        .ep-btn {
+            padding: 8px 15px;
+            background: #222;
+            border: 1px solid #444;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+        }
+
+        .ep-btn:hover, .ep-btn.active { background: var(--main-blue); color: black; }
+
+        .close-btn {
+            align-self: flex-end;
+            color: white;
+            font-size: 30px;
+            cursor: pointer;
+            margin-bottom: 10px;
+        }
+
+        /* Loading Animation */
+        .loading-text { text-align: center; width: 100%; padding: 50px; color: var(--main-blue); font-weight: bold; }
+
+        @media (max-width: 600px) {
+            .movie-grid { grid-template-columns: repeat(2, 1fr); gap: 15px; }
+            .search-box { min-width: 100%; order: 3; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="container nav-content">
+            <h1 class="logo" onclick="location.reload()">BLUE-MOVIE</h1>
+            
+            <div class="server-switcher">
+                <button id="btn-ophim" onclick="switchServer('ophim')" class="server-btn active">OPHIM</button>
+                <button id="btn-nguonc" onclick="switchServer('nguonc')" class="server-btn">NGUONC</button>
+            </div>
+
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" onkeyup="if(event.key === 'Enter') searchMovies()" placeholder="Tìm phim...">
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="filter-bar">
+            <button onclick="fetchAPI(currentConfig.newPath)" class="filter-btn">MỚI NHẤT</button>
+            <button onclick="fetchAPI(currentConfig.seriesPath)" class="filter-btn">PHIM BỘ</button>
+            <button onclick="fetchAPI(currentConfig.moviePath)" class="filter-btn">PHIM LẺ</button>
+            <button onclick="fetchAPI('the-loai/hanh-dong')" class="filter-btn">HÀNH ĐỘNG</button>
+            <button onclick="fetchAPI('the-loai/hoat-hinh')" class="filter-btn">HOẠT HÌNH</button>
+        </div>
+
+        <h2 id="sectionTitle" style="border-left: 4px solid var(--main-blue); padding-left: 15px;">Phim Mới Cập Nhật</h2>
+        
+        <div id="movieContainer" class="movie-grid">
+            </div>
+
+        <div style="text-align: center; margin-bottom: 50px;">
+            <button id="prevBtn" onclick="changePage(-1)" class="filter-btn" style="width: 100px;">TRƯỚC</button>
+            <span id="pageLabel" style="margin: 0 20px; font-weight: bold;">Trang 1</span>
+            <button id="nextBtn" onclick="changePage(1)" class="filter-btn" style="width: 100px;">SAU</button>
+        </div>
+    </div>
+
+    <div id="playerOverlay" class="player-overlay">
+        <div class="player-content">
+            <div class="close-btn" onclick="closePlayer()">&times;</div>
+            <video id="videoPlayer" controls></video>
+            <div id="episodeList" class="episode-container"></div>
+        </div>
+    </div>
+
+    <script>
+        /* --- JAVASCRIPT THUẦN (VANILLA JS) --- */
+        const config = {
+            ophim: {
+                api: "https://ophim1.com/api/_api/v1",
+                img: "https://img.otruyenapi.com/uploads/movies/",
+                newPath: "danh-sach/phim-moi-cap-nhat",
+                seriesPath: "danh-sach/phim-bo",
+                moviePath: "danh-sach/phim-le"
+            },
+            nguonc: {
+                api: "https://phim.nguonc.com/api/vi2/_api/v1",
+                img: "https://phim.nguonc.com/uploads/movies/",
+                newPath: "danh-sach/phim-moi-cap-nhat",
+                seriesPath: "danh-sach/phim-bo",
+                moviePath: "danh-sach/phim-le"
+            }
+        };
+
+        let currentServer = 'ophim';
+        let currentConfig = config.ophim;
+        let currentPage = 1;
+        let currentPath = currentConfig.newPath;
+
+        // Khởi tạo HLS
+        const video = document.getElementById('videoPlayer');
+        const hls = new Hls();
+
+        function switchServer(server) {
+            currentServer = server;
+            currentConfig = config[server];
+            document.getElementById('btn-ophim').classList.toggle('active', server === 'ophim');
+            document.getElementById('btn-nguonc').classList.toggle('active', server === 'nguonc');
+            currentPage = 1;
+            fetchAPI(currentConfig.newPath);
+        }
+
+        async function fetchAPI(path, page = 1) {
+            currentPath = path;
+            currentPage = page;
+            const container = document.getElementById('movieContainer');
+            container.innerHTML = '<div class="loading-text">ĐANG TẢI DỮ LIỆU...</div>';
+            document.getElementById('pageLabel').innerText = "Trang " + page;
+
+            try {
+                const url = `${currentConfig.api}/${path}${path.includes('?') ? '&' : '?'}page=${page}`;
+                const res = await fetch(url);
+                const result = await res.json();
+                renderMovies(result.data.items);
+                document.getElementById('sectionTitle').innerText = result.data.titlePage || "Kết quả";
+            } catch (e) {
+                container.innerHTML = '<div class="loading-text" style="color:red">LỖI KẾT NỐI SERVER!</div>';
+            }
+        }
+
+        function renderMovies(movies) {
+            const container = document.getElementById('movieContainer');
+            container.innerHTML = movies.map(movie => {
+                const img = movie.thumb_url.includes('http') ? movie.thumb_url : currentConfig.img + movie.thumb_url;
+                return `
+                    <div class="movie-card" onclick="playMovie('${movie.slug}')">
+                        <span class="quality-badge">${movie.quality || 'HD'}</span>
+                        <img src="${img}" alt="${movie.name}">
+                        <div class="movie-info">
+                            <p class="movie-title">${movie.name}</p>
+                            <div class="movie-meta">
+                                <span>${movie.year}</span>
+                                <span style="color:var(--main-blue)">${movie.episode_current}</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        async function playMovie(slug) {
+            try {
+                const res = await fetch(`${currentConfig.api}/phim/${slug}`);
+                const data = await res.json();
+                const movie = data.data.item;
+                const episodes = movie.episodes[0].server_data;
+
+                document.getElementById('playerOverlay').style.display = 'flex';
+                const epList = document.getElementById('episodeList');
+                epList.innerHTML = episodes.map(ep => `
+                    <button class="ep-btn" onclick="loadVideo('${ep.link_m3u8}', this)">Tập ${ep.name}</button>
+                `).join('');
+
+                loadVideo(episodes[0].link_m3u8, epList.firstChild);
+            } catch (e) { alert("Lỗi tải link phim!"); }
+        }
+
+        function loadVideo(url, btn) {
+            if (Hls.isSupported()) {
+                hls.loadSource(url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = url;
+                video.play();
+            }
+
+            document.querySelectorAll('.ep-btn').forEach(b => b.classList.remove('active'));
+            if(btn) btn.classList.add('active');
+        }
+
+        function closePlayer() {
+            video.pause();
+            document.getElementById('playerOverlay').style.display = 'none';
+        }
+
+        function searchMovies() {
+            const keyword = document.getElementById('searchInput').value;
+            if(keyword) fetchAPI(`tim-kiem?keyword=${keyword}`);
+        }
+
+        function changePage(step) {
+            const nextP = currentPage + step;
+            if(nextP >= 1) fetchAPI(currentPath, nextP);
+        }
+
+        // Tải trang lần đầu
+        fetchAPI(currentConfig.newPath);
+    </script>
+</body>
+</html>
